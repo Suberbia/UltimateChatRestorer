@@ -33,5 +33,5 @@ def convert_telegram_to_whatsapp(telegram_export_path, whatsapp_output_path):
             # Write the formatted message to the output file
             output_file.write(whatsapp_message)
 
-# Example usage
+# Calling the function
 convert_telegram_to_whatsapp('result.json', '_chat.txt')
