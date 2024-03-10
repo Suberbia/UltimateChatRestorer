@@ -1,7 +1,7 @@
 # UltimateChatRestorer
 
 
-1|   Put 'The Ultimate Chat restorer.py' in a new empty folder with 'telegram_export.json'
+1|   Put 'The Ultimate Chat restorer.py' in a new empty folder with 'result.json'
 
 2|   Run 'The Ultimate Chat restorer.py'
 
