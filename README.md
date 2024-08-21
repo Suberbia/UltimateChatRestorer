@@ -95,11 +95,3 @@ If you encounter any issues, please make sure:
 ## Contributing
 
 Contributions are welcome! If you find any issues or have ideas for improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This README should guide absolute beginners through the process of using the script and importing the chat into Telegram.
