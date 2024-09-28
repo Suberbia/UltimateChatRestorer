@@ -77,8 +77,8 @@ After running the script, you’ll find a new file named `_chat.txt` in the same
 ## Importing the `_chat.txt` into Telegram
 
 1. **Right-click on `_chat.txt`** and choose "Add to archive" (Windows) or "Compress" (Mac/Linux).
-2. **Name the archive**: Set the file name as `Whatsapp Chat - xxxx.zip`, replacing `xxxx` with the name of the user whose chat you’re importing.
-3. **Transfer the file to your phone**: Use a USB cable, email, or any other method to move the `Whatsapp Chat - xxxx.zip` file to your mobile device.
+2. **Name the archive**: Set the file name as `WhatsApp Chat - xxxx.zip`, replacing `xxxx` with the name of the user whose chat you’re importing.
+3. **Transfer the file to your phone**: Use a USB cable, email, or any other method to move the `WhatsApp Chat - xxxx.zip` file to your mobile device.
 4. **Open the file on your phone**: Navigate to where you saved the file, and tap on it. Choose the "Share" option.
 5. **Share to Telegram**: In the sharing menu, select the Telegram app.
 6. **Select the contact**: Choose the contact you want to import the chat to, and send the file.
